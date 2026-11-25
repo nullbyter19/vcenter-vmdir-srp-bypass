@@ -1,0 +1,11 @@
+# capture files and local artefacts
+*.jsonl
+cap*.json
+__pycache__/
+*.pyc
+*.zip
+
+__pycache__/
+*.pyc
+.venv/
+venv/
